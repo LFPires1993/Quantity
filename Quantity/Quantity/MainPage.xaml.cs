@@ -1,5 +1,6 @@
 ﻿using System;
 using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
 
 namespace Quantity
 {
@@ -18,13 +19,14 @@ namespace Quantity
             LBLQty.Text = _qty.ToString();
         }
 
-        private void SubButtom(object sender, EventArgs e)
+        private async void SubButtom(object sender, EventArgs e)
         {
             _qty--;
 
             if (_qty < 0)
             {
                 _qty++;
+                await DisplayAlert("Alert", "Number less the 0", "OK");
             }
 
             LBLQty.Text = _qty.ToString();

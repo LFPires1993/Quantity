@@ -26,7 +26,7 @@ namespace Quantity
             if (_qty < 0)
             {
                 _qty++;
-                await DisplayAlert("Alert", "Number less the 0", "OK");
+                await DisplayAlert("Alert", "Number less then 0", "OK");
             }
 
             LBLQty.Text = _qty.ToString();

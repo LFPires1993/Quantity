@@ -1,4 +1,6 @@
 @string/appbar_scrolling_view_behavior;D:\XamarinProjects\Quantity\Quantity\Quantity.Android\obj\Release\130\lp\54\jl\res\layout\rootlayout.xml
+adaptive-icon;obj\Release\130\res\mipmap-anydpi-v26\ic_launcher.xml
+adaptive-icon;obj\Release\130\res\mipmap-anydpi-v26\ic_launcher_round.xml
 adaptive-icon;obj\Release\130\res\mipmap-anydpi-v26\icon.xml
 adaptive-icon;obj\Release\130\res\mipmap-anydpi-v26\icon_round.xml
 alpha;D:\XamarinProjects\Quantity\Quantity\Quantity.Android\obj\Release\130\lp\54\jl\res\anim\enterfromleft.xml
@@ -10,6 +12,8 @@ androidx.appcompat.widget.Toolbar;D:\XamarinProjects\Quantity\Quantity\Quantity.
 androidx.coordinatorlayout.widget.CoordinatorLayout;D:\XamarinProjects\Quantity\Quantity\Quantity.Android\obj\Release\130\lp\54\jl\res\layout\rootlayout.xml
 androidx.coordinatorlayout.widget.CoordinatorLayout;D:\XamarinProjects\Quantity\Quantity\Quantity.Android\obj\Release\130\lp\54\jl\res\layout\shellcontent.xml
 attr;D:\XamarinProjects\Quantity\Quantity\Quantity.Android\obj\Release\130\lp\54\jl\res\values\attrs.xml
+background;obj\Release\130\res\mipmap-anydpi-v26\ic_launcher.xml
+background;obj\Release\130\res\mipmap-anydpi-v26\ic_launcher_round.xml
 background;obj\Release\130\res\mipmap-anydpi-v26\icon.xml
 background;obj\Release\130\res\mipmap-anydpi-v26\icon_round.xml
 cache-path;D:\XamarinProjects\Quantity\Quantity\Quantity.Android\obj\Release\130\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
@@ -24,6 +28,8 @@ com.google.android.material.tabs.TabLayout;D:\XamarinProjects\Quantity\Quantity\
 declare-styleable;D:\XamarinProjects\Quantity\Quantity\Quantity.Android\obj\Release\130\lp\54\jl\res\values\attrs.xml
 external-cache-path;D:\XamarinProjects\Quantity\Quantity\Quantity.Android\obj\Release\130\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 external-path;D:\XamarinProjects\Quantity\Quantity\Quantity.Android\obj\Release\130\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Release\130\res\mipmap-anydpi-v26\ic_launcher.xml
+foreground;obj\Release\130\res\mipmap-anydpi-v26\ic_launcher_round.xml
 foreground;obj\Release\130\res\mipmap-anydpi-v26\icon.xml
 foreground;obj\Release\130\res\mipmap-anydpi-v26\icon_round.xml
 FrameLayout;D:\XamarinProjects\Quantity\Quantity\Quantity.Android\obj\Release\130\lp\54\jl\res\layout\bottomtablayout.xml

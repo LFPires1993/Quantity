@@ -1,6 +1,9 @@
 Quantity.Droid.MainActivity, Quantity.Android;crc64bc3a0b31b56f5525.MainActivity
 Quantity.Droid.MainActivity;crc64bc3a0b31b56f5525.MainActivity
 quantity.droid.MainActivity;crc64bc3a0b31b56f5525.MainActivity
+Quantity.Droid.SplashScreen, Quantity.Android;crc64bc3a0b31b56f5525.SplashScreen
+Quantity.Droid.SplashScreen;crc64bc3a0b31b56f5525.SplashScreen
+quantity.droid.SplashScreen;crc64bc3a0b31b56f5525.SplashScreen
 AndroidX.Activity.IOnBackPressedDispatcherOwner, Xamarin.AndroidX.Activity;androidx.activity.OnBackPressedDispatcherOwner
 AndroidX.Activity.IOnBackPressedDispatcherOwner;androidx.activity.OnBackPressedDispatcherOwner
 androidx.activity.OnBackPressedDispatcherOwner;androidx.activity.OnBackPressedDispatcherOwner

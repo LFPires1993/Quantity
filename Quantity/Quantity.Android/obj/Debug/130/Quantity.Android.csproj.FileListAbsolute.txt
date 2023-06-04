@@ -659,3 +659,10 @@ D:\XamarinProjects\Quantity\Quantity\Quantity.Android\obj\Debug\130\res\mipmap-a
 D:\XamarinProjects\Quantity\Quantity\Quantity.Android\obj\Debug\130\res\mipmap-hdpi\ic_launcher_round.png
 D:\XamarinProjects\Quantity\Quantity\Quantity.Android\obj\Debug\130\res\mipmap-ldpi\ic_launcher.png
 D:\XamarinProjects\Quantity\Quantity\Quantity.Android\obj\Debug\130\res\mipmap-mdpi\ic_launcher_round.png
+D:\XamarinProjects\Quantity\Quantity\Quantity.Android\obj\Debug\130\res\drawable-hdpi\logo.png
+D:\XamarinProjects\Quantity\Quantity\Quantity.Android\obj\Debug\130\res\drawable\splash_screen.xml
+D:\XamarinProjects\Quantity\Quantity\Quantity.Android\obj\Debug\130\res\drawable-mdpi\logo.png
+D:\XamarinProjects\Quantity\Quantity\Quantity.Android\obj\Debug\130\res\drawable-xhdpi\logo.png
+D:\XamarinProjects\Quantity\Quantity\Quantity.Android\obj\Debug\130\res\drawable-xxhdpi\logo.png
+D:\XamarinProjects\Quantity\Quantity\Quantity.Android\obj\Debug\130\res\drawable-xxxhdpi\logo.png
+D:\XamarinProjects\Quantity\Quantity\Quantity.Android\obj\Debug\130\android\src\crc64bc3a0b31b56f5525\SplashScreen.java

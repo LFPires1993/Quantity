@@ -17,7 +17,8 @@
   </style>
 
 	<style name="MainTheme.Splash" parent ="Theme.AppCompat.Light.NoActionBar">
-		<item name="android:windowBackground">@drawable/splash_screen</item> <!--splash_screen.xml-->
+		<!--splash_screen.xml-->
+		<item name="android:windowBackground">@drawable/splash_screen</item> 
 		<item name="android:windowNoTitle">true</item>
 		<item name="android:windowFullscreen">true</item>
 		<item name="android:windowContentOverlay">@null</item>

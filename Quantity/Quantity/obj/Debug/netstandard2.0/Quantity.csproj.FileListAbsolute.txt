@@ -1,0 +1,15 @@
+D:\XamarinProjects\Quantity\Quantity\Quantity\bin\Debug\netstandard2.0\Quantity.deps.json
+D:\XamarinProjects\Quantity\Quantity\Quantity\bin\Debug\netstandard2.0\Quantity.dll
+D:\XamarinProjects\Quantity\Quantity\Quantity\bin\Debug\netstandard2.0\ref\Quantity.dll
+D:\XamarinProjects\Quantity\Quantity\Quantity\bin\Debug\netstandard2.0\Quantity.pdb
+D:\XamarinProjects\Quantity\Quantity\Quantity\obj\Debug\netstandard2.0\Quantity.csproj.AssemblyReference.cache
+D:\XamarinProjects\Quantity\Quantity\Quantity\obj\Debug\netstandard2.0\Quantity.GeneratedMSBuildEditorConfig.editorconfig
+D:\XamarinProjects\Quantity\Quantity\Quantity\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\XamarinProjects\Quantity\Quantity\Quantity\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\XamarinProjects\Quantity\Quantity\Quantity\obj\Debug\netstandard2.0\Quantity.AssemblyInfoInputs.cache
+D:\XamarinProjects\Quantity\Quantity\Quantity\obj\Debug\netstandard2.0\Quantity.AssemblyInfo.cs
+D:\XamarinProjects\Quantity\Quantity\Quantity\obj\Debug\netstandard2.0\Quantity.csproj.CoreCompileInputs.cache
+D:\XamarinProjects\Quantity\Quantity\Quantity\obj\Debug\netstandard2.0\XamlC.stamp
+D:\XamarinProjects\Quantity\Quantity\Quantity\obj\Debug\netstandard2.0\Quantity.dll
+D:\XamarinProjects\Quantity\Quantity\Quantity\obj\Debug\netstandard2.0\refint\Quantity.dll
+D:\XamarinProjects\Quantity\Quantity\Quantity\obj\Debug\netstandard2.0\Quantity.pdb
